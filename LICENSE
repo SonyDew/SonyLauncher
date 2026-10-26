@@ -1,0 +1,18 @@
+Copyright (c) 2026 SonyDew. All rights reserved.
+
+SonyLauncher's original application source code and project-specific materials
+are proprietary. No general permission is granted to copy, modify, distribute,
+sublicense, sell, or create derivative works from these materials without the
+copyright holder's prior written permission.
+
+This notice does not restrict rights required by applicable law, permissions
+expressly granted under a hosting platform's terms, or rights already granted
+under a prior valid license. Public availability does not make the application
+open source or grant permission to republish or rebrand it.
+
+Third-party components, adapted shadcn/ui components and other separately
+licensed materials are excluded from this notice. Their respective license
+terms and notices remain applicable; see THIRD_PARTY_NOTICES.md and licenses/.
+
+No rights to third-party names or trademarks are granted. SonyLauncher is not
+affiliated with or endorsed by Mojang, Microsoft, Sony, or their affiliates.
