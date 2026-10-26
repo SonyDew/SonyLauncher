@@ -16,6 +16,6 @@ SonyLauncher does not implement a developer analytics endpoint, a developer acco
 
 ## Removal and support
 
-Signing out removes the corresponding launcher profile and its stored refresh token. Game worlds are separate from account records and are not deleted by signing out. The Microsoft-only version preserves legacy local nickname records but does not use them to authorize gameplay.
+Signing out removes the corresponding launcher profile and its stored refresh token. Game worlds are separate from account records and are not deleted by signing out. Gameplay requires Microsoft authentication and Java entitlement verification.
 
 For project questions, use this repository's issues. Do not post passwords, authentication codes, tokens, private game logs, or account identifiers in a public issue.
